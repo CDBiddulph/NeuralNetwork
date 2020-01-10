@@ -17,9 +17,9 @@ import random
 # THEN OPEN "combined_image" IN THE FILE EXPLORER
 
 # this is the digit that the original image will be of
-original_digit = 7
+original_digit = 8
 # this is what the computer will think the image is of
-target_digit = 4
+target_digit = 3
 
 #
 
